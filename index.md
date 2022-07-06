@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+We are a group of Analytical Chemists who are passionate about application of Data Science and High Resolution Mass Spectromtery (HRMS) for unravelling the human and environmental exposome. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+We build digital Machine Learning (ML) tools to process LC/GC-HRMS data generated from complex samples from environmental to biological. Our tools are built following the **FAIR** Principals and made publicly available with MIT license. 
