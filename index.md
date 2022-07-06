@@ -7,6 +7,9 @@ title: "Home"
 
 ### Projects
 
+Below you can find the list of some example projects.
+
+
 **MS-Connect** 
 
 We build digital Machine Learning (ML) tools to process LC/GC-HRMS data generated from complex samples from environmental to biological. These tools are to automize the data processing from the data import to structural elucidation and the assessment of quality of the identification. 
