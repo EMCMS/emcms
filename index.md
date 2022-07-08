@@ -17,9 +17,6 @@ We build digital Machine Learning (ML) tools to process LC/GC-HRMS data generate
 *Selected Publications*
 * Combining a Deconvolution and a Universal Library Search Algorithm for the Nontarget Analysis of Data-Independent Acquisition Mode Liquid Chromatography−High-Resolution Mass Spectrometry Results, *Env Sci Technol*, 2018, [link](https://pubs.acs.org/doi/full/10.1021/acs.est.8b00259).
 * Naive Bayes classification model for isotopologue detection in LC-HRMS data, *Chemometric Intll Lab Sys*, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0169743922000260).
-* Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, *Anal Chem*, 2019, [link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422).
-* From Centroided to Profile Mode: Machine Learning for Prediction of Peak Width in HRMS Data, *Anal Chem*, 2021, [link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c03755).
-
 
 
 **DETECT**
