@@ -14,9 +14,6 @@ Below you can find the list of some example projects.
 
 We build digital Machine Learning (ML) tools to process LC/GC-HRMS data generated from complex samples from environmental to biological. These tools are to automize the data processing from the data import to structural elucidation and the assessment of quality of the identification. 
 
-*Selected Publications*
-* Combining a Deconvolution and a Universal Library Search Algorithm for the Nontarget Analysis of Data-Independent Acquisition Mode Liquid Chromatography−High-Resolution Mass Spectrometry Results, *Env Sci Technol*, 2018, [link](https://pubs.acs.org/doi/full/10.1021/acs.est.8b00259).
-* Naive Bayes classification model for isotopologue detection in LC-HRMS data, *Chemometric Intll Lab Sys*, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0169743922000260).
 
 
 **DETECT**
