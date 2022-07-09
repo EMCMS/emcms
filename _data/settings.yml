@@ -16,10 +16,10 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/EMCMS'}
-- {icon: 'Bitbucket', link: 'https://bitbucket.org/SSamanipour/'}
+- {icon: 'bitbucket', link: 'https://bitbucket.org/SSamanipour/'}
 - {icon: 'twitter', link: 'https://twitter.com/ssamanipour'}
-- {icon: 'Scholar', link: 'https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en'}
-- {icon: 'ORCID', link: 'https://orcid.org/0000-0001-8270-6979'}
+- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0001-8270-6979'}
 - {icon: 'linkedin', link: 'https://nl.linkedin.com/in/saer-samanipour-49806847'}
 
 contacts:
