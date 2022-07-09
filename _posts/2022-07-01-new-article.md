@@ -7,3 +7,4 @@ Most chemicals present in the human and environmental exposome are structurally 
 
 ![TOC](https://github.com/EMCMS/emcms/blob/gh-pages/assets/img/TOC_fishTox.png)
 
+<img src="/assets/img/TOC_fishTox.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
