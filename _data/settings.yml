@@ -10,15 +10,14 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Advanced Chemometrics and Statistics', url: 'ACS'}
+
 
 social:
 - {icon: 'github', link: 'https://github.com/EMCMS'}
 - {icon: 'bitbucket', link: 'https://bitbucket.org/SSamanipour/'}
 - {icon: 'twitter', link: 'https://twitter.com/ssamanipour'}
-- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en'}
+- {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-8270-6979'}
 - {icon: 'linkedin', link: 'https://nl.linkedin.com/in/saer-samanipour-49806847'}
 
