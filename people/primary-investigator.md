@@ -3,11 +3,23 @@ layout: page
 title: "Saer Samanipour, PhD"
 ---
 
-Assis. Prof. 
+Assis. Prof. S. Samanipour
 
 Email: s.samanipour@uva.nl
 
 Office: Science Park 904, Amsterdam, the Netherlands
+
+---
+
+Assis. Prof: University of Amsterdam (UvA), 2020-present
+
+Research Scientist: Norwegian Institute for Water Research (NIVA), Oslo, Norway, 2018-2020
+
+Visting Scientist: Queensland Alliance for Environmental Health Sciences (QAEHS), Australia, 2018 
+
+Postdoc: Norwegian Institute for Water Research (NIVA), Oslo, Norway, 2015-2017
+
+PhD from the École polytechnique fédérale de Lausanne (EPFL), Switzerland, 2015
 
 ---
 
