@@ -1,6 +1,6 @@
 featured:
 - {name: 'Combining a Deconvolution and a Universal Library Search Algorithm for the Nontarget Analysis of Data-Independent Acquisition Mode Liquid Chromatography−High-Resolution Mass Spectrometry Results, <em>Env Sci Technol<em>, 2018.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.est.8b00259'}
-- {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, *Chemometric Intll Lab Sys*, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
+- {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, <em>Chemometric Intll Lab Sys<em>, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
 - {name: 'Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, <em> Anal Chem<em>, 2019.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422'}
 - {name: 'Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/6284b39d708767488a56959d'}
 - {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/62ac9a8004a3a97dec4a2223'}
