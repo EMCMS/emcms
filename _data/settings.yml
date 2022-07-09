@@ -1,5 +1,5 @@
 menu:
-- {name: 'Projects', url: '/cv'}
+- {name: 'Projects', url: '/projects'}
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Teaching', url: '/courses'}
