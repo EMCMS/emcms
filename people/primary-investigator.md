@@ -1,18 +1,16 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Saer Samanipour, PhD"
 ---
 
-Researcher - Physics & Astronomy
+Assis. Prof. 
 
-Some University - 1 Main Street, Canada
+Email: s.samanipour@uva.nl
 
-Phone: (000) 000-0000
-
-Email: hello@university.edu
-
-Office: Science Building 505
+Office: Science Park 904, Amsterdam, the Netherlands
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+**Dr Samanipour**, currently, is an assistant professor of intelligent interpretation of spectral data at [Van't Hoff Institute for Molecular Science (HIMS)](https://hims.uva.nl/), University of Amsterdam. He is also a member of [UvA Data Science Center (UvS-DSC)](https://dsc.uva.nl/), which is a multidisciplinary hub for the application of data science in other disciplines. Additionally, he is an honorary senior fellow at The [Queensland Alliance for Environmental Health Sciences (QAEHS)](https://qaehs.centre.uq.edu.au/profile/1496/saer-samanipour) of the University of Queensland, Australia (UQ). 
+
+His main research interest is the development of data deriven tools for unraveling the complexity of human exposome. For more information, please contact him via [s.samanipour@uva.nl](s.samanipour@uva.nl) 
