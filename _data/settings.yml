@@ -5,8 +5,8 @@ menu:
 - {name: 'Teaching', url: '/courses'}
 
 people:
-- {name: 'Dr. Saer Samanipour', title: 'Assist. Prof.', department: 'Van &apos t Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl', image: 'assets/img/66.jpg', url: 'primary-investigator'}
-- {name: 'Denice van Herwerden', title: 'PhD Candidate', department: 'Van &apos t Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'd.vanherwerden@uva.nl', image: 'assets/img/Denice.jpg', url: 'DvH'}
+- {name: 'Dr. Saer Samanipour', title: 'Assist. Prof.', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl', image: 'assets/img/66.jpg', url: 'primary-investigator'}
+- {name: 'Denice van Herwerden', title: 'PhD Candidate', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'd.vanherwerden@uva.nl', image: 'assets/img/Denice.jpg', url: 'DvH'}
 
 courses:
 - {name: 'Advanced Chemometrics and Statistics', url: 'ACS'}
