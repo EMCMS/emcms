@@ -1,4 +1,4 @@
 ---
-layout: people
+layout: news
 title: "News"
 ---
