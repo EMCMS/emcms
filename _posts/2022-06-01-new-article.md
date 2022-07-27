@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Preprint"
+title: "New Preprint - Improving the intrinsic prediction of fish toxicity"
 ---
 
 ## From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization

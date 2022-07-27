@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Preprint"
+title: "New Preprint - Predicting the RTIs of unknown chemicals"
 ---
 
 ## Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data
