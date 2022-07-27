@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">News</h3>
+{% for news in site.data.settings.news %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>{{ news.title_sh }}</h5>
+    <p>Date: {{ news.date }}</p>
+    <p>{{ news.title }}</p>
+    <p><a href="{{ site.github.url }}/news/{{ news.url }}">More info</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ news.image }}" alt="Contact" width="60%">
+  </div>
+</div>
+{% endfor %}
+
+-------------------------------------------------------------------------------------
+
+{{ content }}
+

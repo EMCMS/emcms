@@ -1,4 +1,5 @@
 menu:
+- {name: 'News', url: '/news'}
 - {name: 'Projects', url: '/projects'}
 - {name: 'People', url: '/people'}
 - {name: 'Publications', url: '/publications'}
@@ -22,3 +23,8 @@ social:
 
 contacts:
 - {name: 'Dr. Saer Samanipour', title: 'Assist. Prof.', department: 'HIMS', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl'}
+
+news:
+- {title: 'New Pre-Print is out', date: '22-06-2022',image: 'assets/img/66.jpg', url: 'Des2tox'}
+- {title: 'RTIs of unknown compounds predicted', date: '19-05-2022',image: 'assets/img/66.jpg', url: 'Des2tox'}
+
