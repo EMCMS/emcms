@@ -5,8 +5,10 @@ title: "Publications"
 
 ## Our Latest Publications 
 
-This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page. 
+This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
+* Collision Cross Section Prediction with Molecular Fingerprint Using Machine Learning, *Molecules*, 2022, [link](https://www.mdpi.com/1420-3049/27/19/6424)
+* Socioeconomic status and public health in Australia: A wastewater-based study, *Env. Int.*, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0160412022003634)
 * Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, *ChemRxiv*, 2022, [link](https://chemrxiv.org/engage/chemrxiv/article-details/6284b39d708767488a56959d).
 * From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, *ChemRxiv*, 2022, [link](https://chemrxiv.org/engage/chemrxiv/article-details/62ac9a8004a3a97dec4a2223).
 * Automated Feature Mining for Two-Dimensional Liquid Chromatography Applied to Polymers Enabled by Mass Remainder Analysis, *Anal. Chem.*, 2022,[link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c05336).
