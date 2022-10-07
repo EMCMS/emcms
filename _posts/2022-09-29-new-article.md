@@ -1,0 +1,10 @@
+---
+layout: post
+title: "New article - Predicting the CCS values using fingerprints"
+---
+
+## Collision Cross Section Prediction with Molecular Fingerprint Using Machine Learning
+
+High-resolution mass spectrometry is a promising technique in non-target screening (NTS) to monitor contaminants of emerging concern in complex samples. Current chemical identification strategies in NTS experiments typically depend on spectral libraries, chemical databases, and in silico fragmentation tools. However, small molecule identification remains challenging due to the lack of orthogonal sources of information (e.g., unique fragments). Collision cross section (CCS) values measured by ion mobility spectrometry (IMS) offer an additional identification dimension to increase the confidence level. Thanks to the advances in analytical instrumentation, an increasing application of IMS hybrid with high-resolution mass spectrometry (HRMS) in NTS has been reported in the recent decades. Several CCS prediction tools have been developed. However, limited CCS prediction methods were based on a large scale of chemical classes and cross-platform CCS measurements. We successfully developed two prediction models using a random forest machine learning algorithm. One of the approaches was based on chemicals’ super classes; the other model was direct CCS prediction using molecular fingerprint. Over 13,324 CCS values from six different laboratories and PubChem using a variety of ion-mobility separation techniques were used for training and testing the models. The test accuracy for all the prediction models was over 0.85, and the median of relative residual was around 2.2%. The models can be applied to different IMS platforms to eliminate false positives in small molecule identification. Full text can be found [here](https://www.mdpi.com/1420-3049/27/19/6424).
+
+![Graphical Abstract](https://github.com/EMCMS/emcms/blob/gh-pages/assets/img/TOC_CCS.png?raw=true)
