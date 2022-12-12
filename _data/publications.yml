@@ -3,7 +3,7 @@ featured:
 - {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, <em>Chemometric Intll Lab Sys<em>, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
 - {name: 'Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, <em> Anal Chem<em>, 2019.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422'}
 - {name: 'Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/632828020847009e1980ec64'}
-- {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/633fd31ee615022e5a35637d'}
+- {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>Env Sci Technol<em>, 2022.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.2c07353'}
 - {name: 'InSpectra – A Platform for Identifying Emerging Chemical Threats, <em>ResearchSquare<em>, 2022.', url: 'https://www.researchsquare.com/article/rs-2120496/v1'}
 
 index:
@@ -11,5 +11,5 @@ index:
 - {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, <em>Chemometric Intll Lab Sys<em>, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
 - {name: 'Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, <em>Anal Chem<em>, 2019.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422'}
 - {name: 'Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/632828020847009e1980ec64'}
-- {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>ChemRxiv<em>, 2022.', url: 'https://chemrxiv.org/engage/chemrxiv/article-details/633fd31ee615022e5a35637d'}
+- {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>Env Sci Technol<em>, 2022.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.2c07353'}
 - {name: 'InSpectra – A Platform for Identifying Emerging Chemical Threats, <em>ResearchSquare<em>, 2022.', url: 'https://www.researchsquare.com/article/rs-2120496/v1'}

@@ -7,6 +7,8 @@ title: "Publications"
 
 This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
+* From Molecular Descriptors to Intrinsic Fish Toxicity of Chemicals: An Alternative Approach to Chemical Prioritization, *Env. Sci. Technol.* 2022, [link](https://pubs.acs.org/doi/10.1021/acs.est.2c07353).
+* Development of a comprehensive two-dimensional liquid chromatographic mass spectrometric method for the non-targeted identification of poly- and perfluoroalkyl substances in aqueous film-forming foams, *Anal. Chim. Acta* 2022, [link](https://www.sciencedirect.com/science/article/pii/S000326702201056X?via%3Dihub). 
 * Collision Cross Section Prediction with Molecular Fingerprint Using Machine Learning, *Molecules*, 2022, [link](https://www.mdpi.com/1420-3049/27/19/6424)
 * Socioeconomic status and public health in Australia: A wastewater-based study, *Env. Int.*, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0160412022003634)
 * Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, *ChemRxiv*, 2022, [link](https://chemrxiv.org/engage/chemrxiv/article-details/6284b39d708767488a56959d).
