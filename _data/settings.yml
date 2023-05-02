@@ -12,6 +12,7 @@ people:
 - {name: 'Etienne Kant', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'etienne.kant@student.uva.nl', image: 'assets/img/EtienneK.jpg', url: 'EtienneK'}
 - {name: 'Lisa Vuong', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'lisa.vuong@student.uva.nl', image: 'assets/img/LisaV.png', url: 'LisaV'}
 - {name: 'Alex Nikolopoulos', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'alex.nikolopoulos@student.uva.nl', image: 'assets/img/AN_small pic.jpg', url: 'AlexN'}
+- {name: 'Sanne Boot', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'alex.nikolopoulos@student.uva.nl', image: 'assets/img/SanneB.jpg', url: 'SanneB'}
 
 courses:
 - {name: 'Advanced Chemometrics and Statistics', url: 'ACS'}
@@ -19,7 +20,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/EMCMS'}
-- {icon: 'bitbucket', link: 'https://bitbucket.org/SSamanipour/'}
+- {icon: 'bitbucket', link: 'https://bitbucket.org/SSamanipour/workspace/repositories'}
 - {icon: 'twitter', link: 'https://twitter.com/ssamanipour'}
 - {icon: 'google scholar', link: 'https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en'}
 - {icon: 'orcid', link: 'https://orcid.org/0000-0001-8270-6979'}

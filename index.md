@@ -9,4 +9,4 @@ We build digital Machine Learning (ML) based tools to process LC/GC-HRMS data ge
 
 ---------------------------------------------------------------------------------------------------
 ## Open Science
-All our tools are built following the **FAIR** Principals and made publicly available through [GitHub](https://github.com/EMCMS) and [Bitbucket](https://bitbucket.org/SSamanipour/) with MIT license. 
+All our tools are built following the **FAIR** Principals and made publicly available through [GitHub](https://github.com/EMCMS) and [Bitbucket](https://bitbucket.org/SSamanipour/workspace/repositories) with MIT license. 
