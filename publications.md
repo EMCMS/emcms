@@ -7,12 +7,15 @@ title: "Publications"
 
 This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
+* InSpectra – A Platform for Identifying Emerging Chemical Threats, *J. Haz. Mat.*, 2023, [link](https://www.sciencedirect.com/science/article/pii/S0304389423007690).
+* Instrument-independent chemometric models for rapid, calibration-free NPS isomer differentiation from mass spectral GC-MS data, *F.S.I.*, 2023, [link](https://www.sciencedirect.com/science/article/pii/S0379073823001007?via%3Dihub).
+* Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, *J. Cheminfor*, 2023, [link](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00699-8).
+* Metabolome-Based Classification of Snake Venoms by Bioinformatic Tools, *Toxins* 2023, [link](https://www.mdpi.com/2072-6651/15/2/161). 
+* National Wastewater Reconnaissance of Analgesic Consumption in Australia, *Env. Sci. Technol.* 2023, [link](https://pubs.acs.org/doi/10.1021/acs.est.2c06691).
 * From Molecular Descriptors to Intrinsic Fish Toxicity of Chemicals: An Alternative Approach to Chemical Prioritization, *Env. Sci. Technol.* 2022, [link](https://pubs.acs.org/doi/10.1021/acs.est.2c07353).
 * Development of a comprehensive two-dimensional liquid chromatographic mass spectrometric method for the non-targeted identification of poly- and perfluoroalkyl substances in aqueous film-forming foams, *Anal. Chim. Acta* 2022, [link](https://www.sciencedirect.com/science/article/pii/S000326702201056X?via%3Dihub). 
 * Collision Cross Section Prediction with Molecular Fingerprint Using Machine Learning, *Molecules*, 2022, [link](https://www.mdpi.com/1420-3049/27/19/6424)
 * Socioeconomic status and public health in Australia: A wastewater-based study, *Env. Int.*, 2022, [link](https://www.sciencedirect.com/science/article/pii/S0160412022003634)
-* Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, *ChemRxiv*, 2022, [link](https://chemrxiv.org/engage/chemrxiv/article-details/6284b39d708767488a56959d).
-* From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, *ChemRxiv*, 2022, [link](https://chemrxiv.org/engage/chemrxiv/article-details/62ac9a8004a3a97dec4a2223).
 * Automated Feature Mining for Two-Dimensional Liquid Chromatography Applied to Polymers Enabled by Mass Remainder Analysis, *Anal. Chem.*, 2022,[link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c05336).
 * Utilization of Machine Learning for the Differentiation of Positional NPS Isomers with Direct Analysis in Real Time Mass Spectrometry, *Anal. Chem*, 2022, [link](https://pubs.acs.org/doi/10.1021/acs.analchem.1c04985).
 * Examining the Relevance of the Microplastic-Associated Additive Fraction in Environmental Compartments, *Env. Sci. Technol. Water*, 2022, [link](https://pubs.acs.org/doi/10.1021/acsestwater.1c00310).
