@@ -9,14 +9,16 @@ people:
 - {name: 'Denice van Herwerden', title: 'PhD Candidate', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'd.vanherwerden@uva.nl', image: 'assets/img/Denice.jpg', url: 'DvH'}
 - {name: 'Viktoriia Turkina', title: 'PhD Candidate', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'v.turkina@uva.nl', image: 'assets/img/Vika.png', url: 'Vika'}
 - {name: 'Jiani Hu', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'jiani.hu@student.uva.nl', image: 'assets/img/Jiani.png', url: 'JHU'}
-- {name: 'Etienne Kant', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'etienne.kant@student.uva.nl', image: 'assets/img/EtienneK.jpg', url: 'EtienneK'}
-- {name: 'Lisa Vuong', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'lisa.vuong@student.uva.nl', image: 'assets/img/LisaV.png', url: 'LisaV'}
+- {name: 'Gijs Brinks', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'gijs.brinks@student.uva.nl', image: 'assets/img/Foto_Gijs.jpg', url: 'GijsBrinks'}
+- {name: 'Adan Rotteveel', title: 'BSc Student', department: 'Informatics Institute (IvI)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'adan.rotteveel@student.uva.nl', image: 'assets/img/adan_foto.png', url: 'Adan'}
 - {name: 'Alex Nikolopoulos', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'alex.nikolopoulos@student.uva.nl', image: 'assets/img/AN_small pic.jpg', url: 'AlexN'}
 - {name: 'Sanne Boot', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'sanne.boot@student.uva.nl', image: 'assets/img/SanneB.jpg', url: 'SanneB'}
-- {name: 'Jake OBrien', title: 'Visiting Assist. Prof.', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'j.obrien2@uq.edu.au', image: 'assets/img/JakeOBrien.jpg', url: 'JOB'}
+- {name: 'Sara Morozzi', title: 'MSc Student', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'sara.morozzi@stud.unifi.it', image: 'assets/img/SaraM.jpg', url: 'Sara'}
+- {name: 'Dr. Jake OBrien', title: 'Visiting Assist. Prof.', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'j.obrien2@uq.edu.au', image: 'assets/img/JakeOBrien.jpg', url: 'JOB'}
 
 courses:
 - {name: 'Advanced Chemometrics and Statistics', url: 'ACS'}
+- {name: 'Data Science for Chemistry', url: 'DataSci4Chem'}
 
 
 social:

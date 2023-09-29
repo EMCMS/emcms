@@ -1,15 +1,16 @@
 featured:
+- {name: 'Critical Assessment of the Chemical Space Covered by LC–HRMS Non-Targeted Analysis, <em>Env Sci Technol<em>, 2023.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.3c03606'}
 - {name: 'Combining a Deconvolution and a Universal Library Search Algorithm for the Nontarget Analysis of Data-Independent Acquisition Mode Liquid Chromatography−High-Resolution Mass Spectrometry Results, <em>Env Sci Technol<em>, 2018.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.est.8b00259'}
 - {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, <em>Chemometric Intll Lab Sys<em>, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
 - {name: 'Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, <em> Anal Chem<em>, 2019.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422'}
 - {name: 'Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, <em>J. Chem. Inform.<em>, 2023.', url: 'https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00699-8'}
 - {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>Env Sci Technol<em>, 2022.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.2c07353'}
-- {name: 'InSpectra – A Platform for Identifying Emerging Chemical Threats, <em>J. Haz. Mat.<em>, 2023.', url: 'https://www.sciencedirect.com/science/article/pii/S0304389423007690'}
+
 
 index:
+- {name: 'Critical Assessment of the Chemical Space Covered by LC–HRMS Non-Targeted Analysis, <em>Env Sci Technol<em>, 2023.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.3c03606'}
 - {name: 'Combining a Deconvolution and a Universal Library Search Algorithm for the Nontarget Analysis of Data-Independent Acquisition Mode Liquid Chromatography−High-Resolution Mass Spectrometry Results, <em>Env Sci Technol<em>, 2018.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.est.8b00259'}
 - {name: 'Naive Bayes classification model for isotopologue detection in LC-HRMS data, <em>Chemometric Intll Lab Sys<em>, 2022.', url: 'https://www.sciencedirect.com/science/article/pii/S0169743922000260'}
 - {name: 'Self Adjusting Algorithm for the Nontargeted Feature Detection of High Resolution Mass Spectrometry Coupled with Liquid Chromatography Profile Data, <em>Anal Chem<em>, 2019.', url: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.9b02422'}
 - {name: 'Predicting RP-LC retention indices of structurally unknown chemicals from mass spectrometry data, <em>J. Chem. Inform.<em>, 2023.', url: 'https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00699-8'}
 - {name: 'From descriptors to intrinsic fish toxicity of chemicals: an alternative approach to chemical prioritization, <em>Env Sci Technol<em>, 2022.', url: 'https://pubs.acs.org/doi/10.1021/acs.est.2c07353'}
-- {name: 'InSpectra – A Platform for Identifying Emerging Chemical Threats, <em>J. Haz. Mat.<em>, 2023.', url: 'https://www.sciencedirect.com/science/article/pii/S0304389423007690'}
