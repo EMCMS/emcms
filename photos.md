@@ -3,8 +3,6 @@ layout: post
 title: "Photos"
 ---
 
-# Group Photos
-
 ## [SinS 2023 Cardiff](https://www.ilmexhibitions.com/sins/)
 
 ### Etienne getting the best poster award by RSC 
