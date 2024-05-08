@@ -5,6 +5,7 @@ title: "People"
 
 ### Former members
 
+* Adan Rotteveel
 * Etienne Kant - MSc internship
 * Melanie Messih - BSc Internship
 * Lisa Voung - MSc minor internship

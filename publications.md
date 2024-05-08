@@ -7,7 +7,8 @@ title: "Publications"
 
 This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
-
+* Workflow to facilitate the detection of new psychoactive substances and drugs of abuse in influent urban wastewater, *J. Haz. Mat.*, 2024, [link](https://www.sciencedirect.com/science/article/pii/S030438942400534X).
+* Studying Venom Toxin Variation Using Accurate Masses from Liquid Chromatography–Mass Spectrometry Coupled with Bioinformatic Tools, *Toxins*, 2024, [link](https://www.mdpi.com/2072-6651/16/4/181). 
 * Is Nontarget Analysis Ready for Regulatory Application? Influence of Peak-Picking Algorithms on Data Analysis, *Anal. Chem.*, 2023, [link](https://pubs.acs.org/doi/10.1021/acs.analchem.3c03003).
 * NORMAN guidance on suspect and non-target screening in environmental monitoring, *Env. Sci. Eu.*, 2023, [link](https://link.springer.com/article/10.1186/s12302-023-00779-4).
 * Per- and polyfluoroalkyl substances (PFAS) in consumer products: Current knowledge and research gaps, *J. Haz. Mat.*, 2023, [link](https://www.sciencedirect.com/science/article/pii/S2666911023000126).
