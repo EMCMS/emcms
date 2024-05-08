@@ -14,4 +14,4 @@ MSc in Analytical Chemistry: University of Amsterdam, 2024
 
 ---
 
-**Sanne** is mainly interested in computational approaches for processing LCxLC-HRMS data of complex samples. Her PhD is funded by the project InnOVATOR.   
+**Sanne** is mainly interested in computational approaches for processing LCxLC-HRMS data of complex samples. Her PhD is funded by the project InnovATOR.   
