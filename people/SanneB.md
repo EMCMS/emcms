@@ -3,15 +3,15 @@ layout: page
 title: "Sanne Boot"
 ---
 
-MSc Student 
+PhD Student with Dr. Pirok 
 
 University of Amsterdam, the Netherlands 
-Email: sanne.boot@student.uva.nl
+Email: s.e.boot@uva.nl
 
 ---
 
-MSc in Analytical Chemistry: University of Amsterdam, 2023
+MSc in Analytical Chemistry: University of Amsterdam, 2024
 
 ---
 
-**Sanne** is mainly interested in computational mass spectrometry, statistics, and model development. She is building predictive models for feature prioritization of LC-HRMS data. 
+**Sanne** is mainly interested in computational approaches for processing LCxLC-HRMS data of complex samples. Her PhD is funded by the project InnOVATOR.   
