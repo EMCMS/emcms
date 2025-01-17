@@ -3,7 +3,7 @@ layout: page
 title: "Alex Nikolopoulos"
 ---
 
-MSc Student 
+Research Assistant
 
 University of Amsterdam, the Netherlands 
 Email: alex.nikolopoulos@student.uva.nl
