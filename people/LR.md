@@ -3,7 +3,7 @@ layout: page
 title: "Lapo Renai"
 ---
 
-PhD Candidate 
+Postdoctoral fellow
 
 University of Amsterdam, the Netherlands 
 Email: l.renai@uva.nl

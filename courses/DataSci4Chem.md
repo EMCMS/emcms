@@ -12,7 +12,7 @@ This course is coordinated by Dr. Samanipour and consists of 11 lectures and tut
 
 #### Course Github page
 
-[Github](https://emcms.github.io/DataSci4Chem.jl/dev/)
+[Github](https://emcms.github.io/DataSci4Chem.jl/)
 
 ### Additional Study Material
 

@@ -15,7 +15,7 @@ This course is coordinated by Dr. Samanipour and consists of 11 lectures and tut
 
 #### Course Github page
 
-[Github](https://emcms.github.io/ACS.jl/dev/)
+[Github](https://emcms.github.io/ACS.jl)
 
 ### Additional Study Material
 
