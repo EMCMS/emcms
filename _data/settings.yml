@@ -6,7 +6,7 @@ menu:
 - {name: 'Teaching', url: '/courses'}
 
 people:
-- {name: 'Dr. Saer Samanipour', title: 'Assist. Prof.', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl', image: 'assets/img/66.jpg', url: 'primary-investigator'}
+- {name: 'Dr. Saer Samanipour', title: 'Assoc. Prof.', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl', image: 'assets/img/66.jpg', url: 'primary-investigator'}
 - {name: 'Lapo Renai', title: 'Post doc fellow', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'l.renai@uva.nl', image: 'assets/img/LR.jpg', url: 'LR'}
 - {name: 'Jeremy Quail', title: 'Post doc fellow', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'j.a.quail@uva.nl', image: 'assets/img/JQ.png', url: 'JQ'}
 - {name: 'Viktoriia Turkina', title: 'PhD Candidate', department: 'Vant Hoff Institute for Molecular Science (HIMS)', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 'v.turkina@uva.nl', image: 'assets/img/Vika.png', url: 'Vika'}
@@ -36,7 +36,7 @@ social:
 - {icon: 'linkedin', link: 'https://nl.linkedin.com/in/saer-samanipour-49806847'}
 
 contacts:
-- {name: 'Dr. Saer Samanipour', title: 'Assist. Prof.', department: 'HIMS', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl'}
+- {name: 'Dr. Saer Samanipour', title: 'Assoc. Prof.', department: 'HIMS', institution: 'University of Amsterdam (UvA)', institution_address: 'Science Park 904, Amsterdam, the Netherlands', email: 's.samanipour@uva.nl'}
 
 news:
 - {title: 'New Pre-Print is out', date: '22-06-2022',image: 'assets/img/66.jpg', url: 'Des2tox'}
