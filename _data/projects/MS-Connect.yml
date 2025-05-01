@@ -1,3 +1,25 @@
 - title: 'an open access platform for complete mining of high-resolution mass spectrometry data'
-  description: 'This project tackles the challenges associated with the complexity of LC/GC-HRMS data, from feature detection to structural elucidation. The tools developed here are all made available following the FAIR principals.'
+  members: 'Dr. Saer Samanipour (PI), Viktoriia Turkina (PhD candidate), Xander Becking (PhD candidate), Sanne Boot (PhD candidate)'
+  description: ' MS-Connect is a research project focused on the development of digital infrastructure and 
+    computational tools to map and identify the measured exposome chemical space from 
+    non-targeted high-resolution mass spectrometry (HRMS) data. As environmental samples contain 
+    thousands of unknown features, traditional chemical identification approaches fall short in 
+    capturing the full complexity and diversity of real-world exposures.
 
+    The primary goal of MS-Connect is to bridge analytical chemistry and data science by building 
+    scalable tools that connect mass spectral features to known and unknown chemical structures. 
+    The project integrates spectral similarity networks, cheminformatics-based annotation workflows, 
+    and machine learning models to systematically organize detected signals and prioritize those 
+    most relevant to environmental and human health.
+
+    By creating interactive and interoperable data platforms, MS-Connect enables the visualization 
+    and exploration of the exposome chemical space, facilitating both structural elucidation and 
+    hypothesis generation. The tools developed within this project are designed to support researchers, 
+    regulators, and data curators in linking chemical fingerprints to potential sources, pathways, 
+    and effects.
+
+    MS-Connect plays a key role in ongoing exposome research efforts by providing community-accessible, 
+    open-source solutions that advance the field of environmental mass spectrometry and chemical 
+    knowledge discovery.'
+  
+  collaborators: 'UvA, UQ, KWR'

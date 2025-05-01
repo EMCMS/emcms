@@ -10,7 +10,7 @@ Email: jasmin.schwarte@student.uva.nl
 
 ---
 
-BSc in Chemistry: Germany
+BEn: Germany
 
 ---
 

@@ -2,14 +2,28 @@
  
   members: 'Dr. Saer Samanipour (PI), Dr. Lapo Renai (postdoc), Viktoriia Turkina (PhD candidate), Tobias Hulleman (PhD candidate), Xander Becking (PhD candidate)'
 
-  description: 'DETECT focuses on the development of machine learning tools for interpreting 
-    non-targeted LC-HRMS data. The project aims to streamline environmental
-    chemical analysis and improve exposure assessment through the integration 
-    of computational mass spectrometry and predictive modeling.'
+  description: 'DETECT (Data-Driven Environmental Chemistry Toolset) is a research project focused on developing 
+    predictive models using high-resolution mass spectrometry (HRMS) data to better understand and 
+    map the chemical space of the exposome. Instead of aiming for chemical identification, DETECT 
+    focuses on extracting patterns and building models that relate spectral features to underlying 
+    physicochemical properties and environmental behavior.
+
+    The project leverages non-targeted analysis (NTA) datasets and mass spectral fragmentation data 
+    to train machine learning algorithms that predict descriptors such as chromatographic retention, 
+    polarity, volatility, and molecular class. These models help researchers understand the structure–response 
+    relationships in environmental samples and enable a more robust exploration of chemical space, 
+    even when the compounds are unknown or absent from spectral libraries.
+
+    DETECT aims to move beyond traditional database matching by applying data-driven approaches 
+    that capture the diversity of real-world environmental mixtures. The insights gained from these 
+    models support risk prioritization, chemical grouping, and a better mechanistic understanding of 
+    how chemicals behave in the environment—without requiring full structural elucidation.
+
+    The tools and models developed through DETECT contribute to open science initiatives and are 
+    integrated into broader exposome research frameworks, ultimately enabling more informed decision-making 
+    in environmental monitoring and policy.'
   
   collaborators: 'UvA, UQ, KWR, HWL'
-  publications:  
-                -Machine Learning for Non-Targeted Analysis of Environmental Mass Spectrometry Data
-                -Critical Assessment of the Chemical Space Covered by LC–HRMS Non-Targeted Analysis
+  
 
  

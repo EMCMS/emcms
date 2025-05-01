@@ -1,3 +1,21 @@
 - title: 'Smart analysis of Complex Organic mixtures in Pre-biotic Environments'
-  description: 'This project aims at performing anomaly detection in the spectral data of complex mixtures. In this project a toolbox for the anomaly detection in the LC-HRMS data will be developed.'
+  members: 'Dr. Saer Samanipour (PI), Viktoriia Turkina (PhD candidate)'
+  description:  SCOPE is a research project dedicated to developing data-driven methods for detecting chemical anomalies in 
+    complex environmental and biological samples using non-targeted high-resolution mass spectrometry (HRMS). 
+    In the context of exposomics, these anomalies may represent rare exposures, emerging contaminants, 
+    or unexpected transformation products that fall outside typical chemical patterns.
 
+    The project focuses on statistical and machine learning techniques for identifying features that 
+    deviate from expected chemical behavior across large and diverse sample sets. SCOPE aims to establish 
+    robust baseline models of chemical occurrence and variability, which serve as references for 
+    detecting unusual signals—both structurally and statistically.
+
+    Key goals include the detection of outliers in spectral feature distributions, the identification 
+    of temporal or spatial chemical shifts, and the classification of sample types based on anomalous 
+    chemical fingerprints. By combining unsupervised learning, feature prioritization, and chemical 
+    metadata analysis, SCOPE contributes to the early discovery of emerging chemical threats and 
+    supports exploratory environmental research.
+
+    The outputs of SCOPE include open-source analytical workflows, anomaly detection frameworks tailored 
+    for mass spectrometry data, and data visualization tools that enable researchers and regulators 
+    to focus on the most atypical and potentially high-impact signals in the exposome.

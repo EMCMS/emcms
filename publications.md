@@ -7,6 +7,10 @@ title: "Publications"
 
 This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
+* Prioritization of Unknown LC-HRMS Features Based on Predicted Toxicity Categories, *Env. Sci. Technol.*, 2025, [link](https://pubs.acs.org/doi/10.1021/acs.est.4c13026).
+* GcDUO: an open-source software for GC × GC–MS data analysis, *Brif. Bioinfo*, 2025, [link](https://academic.oup.com/bib/article/26/2/bbaf080/8051527).
+* Bridging knowledge gaps in human chemical exposure via drinking water with non-target screening, *CREST*, 2025, [link](https://www.tandfonline.com/doi/full/10.1080/10643389.2024.2396690)
+* Categorization and Characterization of Snake Venom Variability through Intact Toxin Analysis by Mass Spectrometry, *J. Proteom. Res.*, 2025, [link](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00923).
 * Improved differentiation of NPS analogs through the application of chemometric methods to GC-solid deposition-FTIR spectra, *Forens. Chem.*, 2024, [link](https://www.sciencedirect.com/science/article/pii/S2468170924000717?via%3Dihub).
 * Consolidating two-dimensional liquid chromatography-high-resolution tandem mass spectrometry (LCxLC-HRMS/MS) technique for the non-targeted analysis of poly- and perfluorinated substances, *STOTEN*, 2024, [link](https://www.sciencedirect.com/science/article/pii/S0048969724060649?via%3Dihub).
 * UV/Visible Diffusion-Ordered Spectroscopy: A Simultaneous Probe of Molecular Size and Electronic Absorption, *Anal. Chem.*, 2024, [link](https://pubs.acs.org/doi/10.1021/acs.analchem.4c02026).
