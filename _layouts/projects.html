@@ -14,7 +14,10 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.projects.DETECT %}
           <p class="fw-bold">{{ section.title }}</p>
+          <p>{{ section.lead }}</p>
+          <p>{{ section.members }}</p>
           <p>{{ section.description }}</p>
+          <p>{{ section.publications }}</p>
         {% endfor %}
       </div>
       <div class="col-md-10">
