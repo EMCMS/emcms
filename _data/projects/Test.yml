@@ -1,4 +1,4 @@
-title: "test project"
-lead: "test lead"
-description: "test description"
-image: "https://www.chemspider.com/Chemical-Structure.12345678.v2.png"
+- title: 'test project' 
+  lead: 'test lead'
+  partners: 'test partners'
+  description: 'test description' 
