@@ -5,6 +5,9 @@ title: "People"
 
 ### Former members
 
+* Quinten van Erp
+* Dr. Alonso - PhD candidate
+* Dr. Jennifer Bonetti - PhD candidate 
 * Dr. Denice van Herwerden - PhD candidate
 * Jelle Gringhuis - MSc internship
 * Gijs Brinks - MSc internship
