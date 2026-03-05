@@ -14,4 +14,4 @@ BSc in Chemistry: University of Amsterdam, 2022
 
 ---
 
-**Quinten** is mainly interested in building molecular representation for biopolymers within the project InnovATOR. 
+**Lars** is mainly interested in building molecular representation for biopolymers within the project InnovATOR. 
