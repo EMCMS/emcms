@@ -7,6 +7,15 @@ title: "Publications"
 
 This is the list of our publications since EMCMS has moved to the UvA (i.e. May 2020). For a complete list of publications, please check Dr. Samanipour's [Scholar](https://scholar.google.com/citations?user=q91SSooAAAAJ&hl=en) profile or [ORCID](https://orcid.org/0000-0001-8270-6979) page.
 
+* Measurable Feature Prediction for Estimating Chemical Space Coverage in LC–ESI–HRMS Nontargeted Analysis, *Anal. Chem.*, 2026, [link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c07705).
+* Communicating Confidence in the Reliability of Micro- and Nanoplastic Identification in Human Health Studies, *Environ. Health*, 2026, [link](https://pubs.acs.org/doi/full/10.1021/envhealth.5c00671).
+* Ionization efficiency prediction of electrospray ionization mass spectrometry analytes based on molecular fingerprints and cumulative neutral losses, *J. Cheminfor*, 2025, [link](https://link.springer.com/article/10.1186/s13321-025-01129-7).
+* Discovery of Previously Unreported Per- and Polyfluoroalkyl Substances (PFAS) in Pooled Australian Human Serum Using Nontarget Analysis, *Env. Sci. Technol.*, 2025, [link](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c04623).
+* Computational mass spectrometry for exposomics in non‑target screening, *Anal. Bioanal. Chem.*, 2025, [link](https://link.springer.com/article/10.1007/s00216-025-06093-7).
+* Machine Learning for Predicting Environmental Mobility Based on Retention Behavior, *Env. Sci. Technol.*, 2025, [link](https://pubs.acs.org/doi/abs/10.1021/acs.est.5c07274). 
+* Rapid On-Site NIR Spectroscopic Characterization of CWA Liquids Using a Novel 3D-Printed Glass Cell, *Anal. Chem.*, 2025, [link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c03719).
+* A Novel Chemical-Space-Dependent Strategy for Compound Selection in Non-target LC-HRMS Method Development Using Physicochemical and Structural Data,  *Env. Sci. Technol. Letters*, 2025, [link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.5c00759).
+* Machine Learning for Enhanced Identification Probability in RPLC/HRMS Nontargeted Workflows, *Anal. Chem.*, 2025, [link](https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c01873).
 * Prioritization of Unknown LC-HRMS Features Based on Predicted Toxicity Categories, *Env. Sci. Technol.*, 2025, [link](https://pubs.acs.org/doi/10.1021/acs.est.4c13026).
 * GcDUO: an open-source software for GC × GC–MS data analysis, *Brif. Bioinfo*, 2025, [link](https://academic.oup.com/bib/article/26/2/bbaf080/8051527).
 * Bridging knowledge gaps in human chemical exposure via drinking water with non-target screening, *CREST*, 2025, [link](https://www.tandfonline.com/doi/full/10.1080/10643389.2024.2396690)
